@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    color: white;
+    font-size: 60px;
+
+}
+body{
+    background-image: url(4\ seasonss.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    font-size: 60px;
+}
+.sum {
+    color: violet;
+    margin-left: 100px;
+    margin-right: 300px;
+}
+
+.fall{
+    color: skyblue;
+}
+.spring{
+    color: yellowgreen;
+    margin-left: 375px;
+}
+.winter{
+    color: red;
+    margin-left: 300px;
+}
+.box{
+    display: inline-block;
+    margin-top: 500px;
+}
+a{
+    width: 1px;
+}
